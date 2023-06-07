@@ -10,3 +10,6 @@ git clone https://github.com/itzalif007/Ahameed-ALIF
 cd Ahameed-ALIF
 git pull
 python Random.4x
+```python
+```python 
+python Random.5x
