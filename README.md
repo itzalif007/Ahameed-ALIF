@@ -9,6 +9,8 @@ pip install mechanize
 git clone https://github.com/itzalif007/Ahameed-ALIF 
 cd Ahameed-ALIF
 git pull
+```
+#RUN
 ```python
 python Random.4x
 ```
